@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:wght@600&family=IBM+Plex+Serif&display=swap');
+
+html {
+	background-color: #2d9c93;
+    background-image: url("../img/exclusive-paper.png");
+}
+
+/****************HEADER***************/
+
+.header {
+	background-color: #f1ebdd;
+    background-image: url("../img/exclusive-paper.png");
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 100px;
+	margin-left: 150px;
+	margin-right: 150px;
+	min-width: 925px;
+}
+
+.image {
+	margin-left: 30px;
+	margin-top: 30px;
+	float: left;
+}
+
+.top {
+	height: 200px;
+}
+
+.info {
+	border-top: 3px solid black;
+    border-image: url("../img/border-texture.png") 100 round;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+    height: 225px;
+}
+
+.heading {
+	/*padding-top: 10px;*/
+	padding-right: 30px;
+	text-align: right;
+}
+
+.heading2 {
+	padding-right: 10px;
+	text-align: right;
+}
+
+.title {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+	padding-left: 150px;
+	padding-right: 30px;
+	border-right: 10px solid;
+    border-image: url("../img/border-texture.png") 100 round;
+	height: 200px;
+	width: 400px;
+	float: left;
+    background: url("../img/exclusive-paper.png");
+    background-color: black;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.capital {
+    font-size: 75px;
+}
+
+/*******************BODY******************/
+
+.body {
+	background-color: #f1ebdd;
+    background-image: url("../img/exclusive-paper.png");
+	margin-left: 75px;
+	margin-right: 75px;
+	margin-bottom: 50px;
+	padding-top: 25px;
+	height: 1000px;
+	min-width: 1075px;	
+}
+
+.body-text {
+    padding-left: 50px;
+    width: 400px;
+    float: left;
+    font-family: 'IBM Plex Serif', serif;
+    background: url("../img/exclusive-paper.png");
+    background-color: black;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    overflow-wrap: break-word;
+}
