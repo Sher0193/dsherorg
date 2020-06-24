@@ -11,7 +11,7 @@
 			</div> <!-- end image -->
 			<div class="title">
 				<h1 class="heading"><strong class="capital">D</strong>YLAN <strong class="capital">S</strong>HERWOOD</h1>
-				<h2 class="heading2"><a href="www.google.com" style="text-decoration:none">ABOUT</a> | PROJECTS | CONTACT</h2>
+				<h2 class="heading2"><a href="about.php" style="text-decoration: none">ABOUT</a> | <a href="projects.php" style="text-decoration: none"> PROJECTS</a> | <a href="contact.php" style="text-decoration: none">CONTACT</a></h2>
 			</div> <!-- end title -->
 			<div class="phone-hidden, atom">
                 <img width="150" src="img/atom.png"/>
@@ -24,9 +24,3 @@
 		</div> <!-- end info -->
 
 	</div> <!-- end header -->
-	<div class="body">
-        <div class="body-text">
-            <p>Under construction.</p>
-		</div> <!-- end body text -->
-	</div> <!-- end body -->
-</html>
