@@ -21,19 +21,24 @@ html {
 
 .image {
     margin-right: 30px;
-    margin-top: 30px;
     float: right;
 }
 .atom {
     display: block;
-    float:right;
+    float:left;
     position: relative;
     left: 30px;
     top: -89px;
 }
 
-@media (max-width: 1200px) {
-    .image, .atom {
+@media (max-width: 1270px) {
+    .image {
+        display: none;
+    }
+}
+
+@media (max-width: 1000px) {
+    .atom {
         display: none;
     }
 }

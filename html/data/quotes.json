@@ -2,5 +2,29 @@
     {
         "quote": "A program that has not been tested does not work.",
         "author": "Bjarne Stroustrup"
+    },
+    {
+        "quote": "If I like a program I must share it with other people who like it.",
+        "author": "Richard Stallman"
+    },
+    {
+        "quote": "UNIX is very simple, it just needs a genius to understand its simplicity.",
+        "author": "Dennis Ritchie"
+    },
+    {
+        "quote": "Wherever smart people work, doors are unlocked.",
+        "author": "Steve Wozniak"
+    },
+    {
+        "quote": "If you guys have ideas for things to do, let me know. I probably will ignore them.",
+        "author": "Terry Davis"
+    },
+    {
+        "quote": "Controlling complexity is the essence of computer programming.",
+        "author": "Brian Kernighan"
+    },
+    {
+        "quote": "You had to know what you were doing, and you had to know what you were talking about.",
+        "author": "Jonathan Blow"
     }
 ]
