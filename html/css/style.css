@@ -16,7 +16,6 @@ html {
 	margin-top: 100px;
 	margin-left: 15%;
 	margin-right: 15%;
-	min-width: 400px;
 }
 
 .image {
@@ -102,7 +101,6 @@ html {
 	margin-right: 10%;
 	margin-bottom: 30px;
 	padding-top: 25px;
- 	min-width: 500px;
 }
 
 .body-text {
