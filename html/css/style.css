@@ -145,7 +145,7 @@ html {
 
 /*********** Hacky Fix For Invisible Text On Edge *************/
 @supports (-ms-ime-align:auto) {
-    .quote-text, .heading {
+    .quote-text, .title {
         -webkit-text-fill-color: black;
     }
 }
