@@ -21,7 +21,7 @@
 			</div> <!-- end image -->
 			<div class="title">
 				<h1 class="heading"><strong class="capital">D</strong>YLAN <strong class="capital">S</strong>HERWOOD</h1>
-				<h2 class="heading2"><a href="about.php" style="text-decoration: none">ABOUT</a> | <a href="projects.php" style="text-decoration: none"> PROJECTS</a> | <a href="contact.php" style="text-decoration: none">CONTACT</a></h2>
+				<h2 class="heading2"><a href="https://github.com/sher0193" style="text-decoration: none"> GITHUB</a> | <a href="resume.pdf" style="text-decoration: none">RESUME</a></h2>
 			</div> <!-- end title -->
 			<div class="atom">
                 <img width="150" src="img/atom.png"/>

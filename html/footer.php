@@ -1,4 +1,4 @@
     <div class="footer-text">
-        <p>DYLAN SHERWOOD - dylansherwood11@gmail.com</p>
+        <a href="mailto: dylansherwood11@gmail.com" style="text-decoration: none" >DYLAN SHERWOOD - dylansherwood11@gmail.com</p>
     </div> <!-- end footer text -->
 </html>
