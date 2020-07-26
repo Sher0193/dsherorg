@@ -41,6 +41,7 @@ html {
         display: none;
     }
 }
+
 .top {
 	height: 200px;
 }
@@ -140,4 +141,11 @@ html {
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-size: 25px;
+}
+
+/*********** Hacky Fix For Invisible Text On Edge *************/
+@supports (-ms-ime-align:auto) {
+    .quote-text, .heading {
+        -webkit-text-fill-color: black;
+    }
 }
