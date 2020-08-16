@@ -2,6 +2,8 @@
 
 This is the implementation of my first personal website, a static PHP webpage to serve as a convenient link for my GitHub and Resume. This is a very basic LAMP stack website, tested in XAMPP and deployed on Apache Web Server. Of note are a Javascript-based random quote cycler, and a PHP-based random image cycler.
 
+![demo image](./image/demo.png)
+
 ## Testing
 
 1. Download the right version of XAMPP for your Operating System: https://www.apachefriends.org/download.html
