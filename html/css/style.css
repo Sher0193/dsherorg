@@ -70,6 +70,19 @@ html {
 	text-align: right;
 }
 
+.heading, .heading2 a {
+    background: url("../img/exclusive-paper.png");
+    background-color: black;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-transition: background-color .5s ease;
+    transition: background-color .5s ease;
+}
+
+.heading2 a:hover {
+    background-color: #626567;
+}
+
 .title {
     font-family: 'Fira Sans Extra Condensed', sans-serif;
     margin-right: 30px;
@@ -82,10 +95,6 @@ html {
 	height: 200px;
 	width: 400px;
 	float: right;
-    background: url("../img/exclusive-paper.png");
-    background-color: black;
-    -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
 }
 
 .capital {
@@ -136,11 +145,21 @@ html {
 .footer-text {
     text-align: center;
     font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 25px;
+    
+}
+
+.footer-text a {
     background: url("../img/exclusive-paper.png");
     background-color: #f1ebdd;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    font-size: 25px;
+    -webkit-transition: background-color .5s ease;
+    transition: background-color .5s ease;
+}
+
+.footer-text a:hover {
+    background-color: white;
 }
 
 /*********** Hacky Fix For Invisible Text On Edge *************/
