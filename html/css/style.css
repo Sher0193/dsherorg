@@ -75,12 +75,13 @@ html {
     background-color: black;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    -webkit-transition: background-color .5s ease;
-    transition: background-color .5s ease;
+    transition: background-color .5s ease, font-size .25s ease;
+    -webkit-transition: background-color .5s ease, font-size .25s ease;
 }
 
 .heading2 a:hover {
     background-color: #626567;
+    font-size: 25px;
 }
 
 .title {
@@ -154,12 +155,13 @@ html {
     background-color: #f1ebdd;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    -webkit-transition: background-color .5s ease;
-    transition: background-color .5s ease;
+    transition: background-color .5s ease, font-size .25s ease;
+    -webkit-transition: background-color .5s ease, font-size .25s ease;
 }
 
 .footer-text a:hover {
     background-color: white;
+    font-size: 26px;
 }
 
 /*********** Hacky Fix For Invisible Text On Edge *************/
