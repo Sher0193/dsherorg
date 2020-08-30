@@ -8,7 +8,7 @@ function loadQuote() {
 
 function populateQuote(quotes) {
     let index = Math.floor(Math.random() * quotes.length);
-    document.getElementById("quote").innerHTML = "<p><i>\"" + quotes[index]["quote"] + "\" - " + quotes[index]["author"] + "</p></i>";
+    document.getElementById("quote").innerHTML = "<p><i>\"" + quotes[index]["quote"] + "\" - " + quotes[index]["author"] + "</i></p>";
 }
 
 function loadJSON(callback) {

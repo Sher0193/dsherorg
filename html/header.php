@@ -25,7 +25,7 @@
 			</div> <!-- end title -->
 			<div class="atom">
                 <img width="150" src="img/atom.png"/>
-            </div>
+            </div> <!-- end atom -->
 		</div> <!-- end top -->
 		<div class="info"> 
             <div id = "quote" class="quote-text">
